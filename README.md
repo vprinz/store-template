@@ -1,3 +1,5 @@
 # store-template
 
-Template for Django Course
+Template code "Django for Beginners"
+
+https://pavlov-school.ru
